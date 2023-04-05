@@ -2,20 +2,24 @@
 .container{
     display: flex;
     justify-content: space-evenly;
-    background-color:backdrop wheat
+    background-color: backdrop wheat;
 }
 
 .cards{ 
     width: 250px;
     height: 500px;
     border: solid 5px #F54748; 
+    
+
 }
 
 
 .person{
-    width: 5px;
-    height: 5px;
-    border: solid 5px #000
+    width: 100px;
+    height: 50px;
+    border: solid 2px #000
+    display; flex
+    justify-content:left;
 }
 
 

@@ -13,13 +13,12 @@
 
 }
 
-
 .person{
     width: 100px;
     height: 50px;
-    border: solid 2px #000
-    display; flex
-    justify-content:left;
+    border: solid 2px #000;
+    display: flex; 
+    justify-content:left
 }
 
 

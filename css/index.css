@@ -1,17 +1,13 @@
 .container{
     display: flex;
     justify-content: space-evenly;
-    background-color: backdrop wheat;
+    background-color: backdrop #F5E6CA
 }
 
 .person{
     width: 250px;
     height: 500px;
 }
-
-.row {
-    background-color:  rgba(251, 147, 0, .5);
-    }
     
 .cards{ 
     width: 100x;

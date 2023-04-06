@@ -7,8 +7,19 @@
 .person{
     width: 250px;
     height: 500px;
+    display: flex;
+    justify-content: left;
 }
     
+.nameHere{
+    width: 250px;
+    height: 500px;
+    display: flex;
+    justify-content: left;
+}
+
+
+
 .cards{ 
     width: 100x;
     height: 200px;

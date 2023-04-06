@@ -2,12 +2,12 @@
     display: flex;
     justify-content: space-evenly;
     background-color: backdrop wheat;
+}
 
-
-.person
+.person{
     width: 250px;
     height: 500px;
-
+}
 
 .row {
     background-color:  rgba(251, 147, 0, .5);
